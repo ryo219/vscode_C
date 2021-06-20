@@ -1,4 +1,4 @@
-// 
+// 入力数列データをヒストグラムにするprogram
 
 #include<stdio.h>
 #include<stdlib.h>
