@@ -1,3 +1,5 @@
+//入力n項数列のマージソートを行うprogram
+
 #include<stdio.h>
 #include<stdlib.h>
 
